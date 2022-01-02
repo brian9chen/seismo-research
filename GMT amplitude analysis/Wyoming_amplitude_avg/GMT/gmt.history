@@ -1,0 +1,8 @@
+# GMT 6 Session common arguments shelf
+BEGIN GMT 6.0.0
+B	0.002+lMax Amplitude (Deep and Shallow avg)
+J	M
+JM	M6i
+R	-125/-95/32/50
+@L	7
+END

@@ -1,0 +1,8 @@
+# GMT 5 Session common arguments shelf
+BEGIN GMT 5.4.5
+B	0.1+lSn/Lg
+J	M
+JM	M6i
+R	-122.5/-101.5/42.5/55.5
+L	6
+END
